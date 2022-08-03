@@ -6,7 +6,7 @@
 `Estevão Nascimento (21) 97702-9544, PHP JavaScript Node React React-Native VueJs HTML CSS Laravel`
 
 ## Back-End
-...
+Helcio Oliveira (11) 96580-6449, PHP, Javascript, WordPress, ReactJS, VTEX, Shopify, Laravel
 
 ## Front-End
 `Samuel Silva (75) 98859-0213, HTML CSS JavaScript`
